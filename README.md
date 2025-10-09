@@ -19,6 +19,8 @@ The dataset was cleansed and modeled in **Power BI**, with calculated measures c
   - YTD Revenue  
   - Customer Count  
   - Quantity Sold  
+<img width="1730" height="812" alt="Screenshot 2025-10-04 164654" src="https://github.com/user-attachments/assets/d5b1f827-2b39-4f3a-a598-e21518e687ec" />
+
 
 ---
 
